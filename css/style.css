@@ -5,3 +5,12 @@
   margin: 0;
   padding: 0;
 }
+
+/* Nav */
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
