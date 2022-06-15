@@ -7,6 +7,14 @@
 }
 
 /* Nav */
+nav {
+  background: purple;
+  
+}
+
+nav a {
+  color: white;
+}
 
 nav ul {
   list-style: none;
